@@ -19,7 +19,7 @@
 - Login into AWS Cloud Account :
 - Launch First Public Instance :
 - Launch Private Instance and in network setting and attach the public ip security Group to it :
-<img src="Photos/1.jpg" alt="Network Settings">
+<img src="Photos/1.jpg" alt="1 Image">
 
 - Connect With Public Ip In MobaXterm :
 - In Your local System where a private Instance pem/ppk file is present open there terminal and change the public ip 
@@ -39,5 +39,5 @@ $ chmod 400 awslab.pem
 ```bash
 $ ssh -i "<path of pem file>" ec2-user@<Private IP>
 ```
-<img src="Photos/4.jpg" alt="Connection">
+<img src="Photos/4.jpg" alt="4 Image">
 - Finally we connect with private Instance
