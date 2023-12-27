@@ -13,6 +13,7 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 - [IAM](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
 - [Snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
 
+<<<<<<< HEAD
 
 ### Steps:
 - Create EC2 Instance 
@@ -87,4 +88,6 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 - It will be trigger when only the Shapshots will not attach to any Ec2 Instance.
 
+=======
+>>>>>>> 196dced22f8d72924e7c4f7da4b1e91701f25c47
 
