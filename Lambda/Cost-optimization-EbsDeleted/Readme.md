@@ -9,7 +9,8 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 ### Deployment Enviroment 
 
 - [EC2](https://aws.amazon.com/pm/ec2)
-- [lambda]
-- [IAM]
-- [Snapshots]
+- [lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+- [IAM](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
+- [Snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
+
 
